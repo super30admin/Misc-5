@@ -3,7 +3,7 @@
 ## Problem 1: Find Consecutive Ones(https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 
-## Problems 2 : Remove all the continuous character
+## Problems 2 : Remove all the continuous character(https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 Given a string we have to remove all the continuous character whose count is more than 2.
 For example :
